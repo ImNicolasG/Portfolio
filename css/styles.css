@@ -1,0 +1,186 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: verdana, sans-serif;
+  /* background-image: radial-gradient(rgb(238, 238, 238), rgb(147, 190, 255)); */
+  background-image: linear-gradient(lightblue, darkblue);
+}
+
+h1 {
+  padding-bottom: 150px;
+  color: #3EDBF0;
+  font-size: 6rem;
+  font-family: 'Marck Script', cursive;
+  text-shadow: 1px 1px 6px #06283D;
+}
+
+h2 {
+  padding-top: 150px;
+  color: #5C7AEA;
+  font-size: 2.5rem;
+  font-family: 'Lemonada', cursive;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Cairo', sans-serif;
+  margin-top: 10px;
+  color: #1363DF;
+}
+
+p {
+  color: #06283D;
+}
+
+a {
+  color: #1363DF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 12px;
+  border-color: #5584AC;
+  width: 6.5%;
+  margin: auto;
+  margin-top: 120px;
+  margin-bottom: 120px;
+}
+
+.top-div {
+  padding: 175px;
+  background-image: linear-gradient(#e8f9fd80, rgba(128, 194, 255, 0.11));
+  background-image: url("strawhat.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 250px;
+  padding-bottom: 50px;
+}
+
+.twitpic {
+  margin-top: 100px;
+  height: 300px;
+}
+
+.web-dev {
+  border-radius: 20%;
+  float: left;
+  margin-right: 10px;
+  height: 150px;
+  padding-right: 30px;
+}
+
+.python {
+  float: right;
+  margin-left: 10px;
+  height: 120px;
+  padding-left: 30px;
+}
+
+.skill-1 {
+  text-align: left;
+}
+
+.skill-2 {
+  text-align: right;
+}
+
+
+
+.github {
+  height: 200px;
+  padding-bottom: 50px;
+}
+
+.cImgs {
+  max-width: 750px;
+  width: 75%;
+}
+
+.cBtn {
+  margin: 0 25%;
+}
+
+
+.welcome {
+  height: 70px;
+  font-size: 50px;
+  margin: 45px;
+}
+
+.intro-paragraph {
+  margin: 50px auto;
+  text-align: center;
+  width: 600px;
+  line-height: 200%;
+}
+
+
+.bot-div {
+  padding-top: 55px;
+  margin-top: 60px;
+  background-color: #46b5ffb0;
+  margin-bottom: 0;
+}
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.skill-row {
+  margin: 50px auto;
+  padding: 30px;
+  width: 35%;
+  line-height: 150%;
+}
+
+.contact-me {
+  line-height: 400%;
+  padding: 0 100px;
+}
+
+.footer {
+  padding: 55px;
+  margin-bottom: 0;
+  color: white;
+}
+
+.footer-link {
+  padding: 30px;
+  color: #ffffff;
+}
