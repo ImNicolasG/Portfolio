@@ -19,18 +19,21 @@ h1 {
 h2 {
   font-family: 'Corben', cursive;
   font-weight: normal;
+  font-size: 4rem;
 }
 
 h3 {
   font-family: 'Signika Negative', sans-serif;
   margin-top: 10px;
   color: #ffffff;
-  font-size: xx-large;
+  font-size: 3rem;
+
 }
 
 p {
-  color: #ffffff;
+  color: #ffffffbd;
   line-height: 150%;
+  font-size: 2.5rem
 }
 
 a {
@@ -41,15 +44,21 @@ hr {
   border-style: none;
   border-top-style: dotted;
   border-width: 12px;
-  border-color: #5584AC;
+  border-color: #ffffff91;
   width: 6.5%;
   margin: auto;
   margin-top: 120px;
   margin-bottom: 120px;
 }
 
+u {
+  color: rgba(0, 0, 0, 0.3);
+  text-decoration-style: wavy;
+  text-decoration-thickness: 5%;
+}
+
 .top-div {
-  padding: 175px;
+  padding: 150px;
   background-image: linear-gradient(#e8f9fd80, rgba(128, 194, 255, 0.11));
   background-image: url("strawhat.png");
   background-repeat: no-repeat;
@@ -76,11 +85,12 @@ hr {
 
 .twitpic {
   margin-top: 100px;
-  height: 350px;
+  height: 550px;
 }
 
 
 .sHeader {
+  padding-bottom: 45px;
   color: white;
 }
 
@@ -99,12 +109,6 @@ hr {
   margin-left: 10px;
   height: 140px;
   background-color: white;
-}
-
-
-
-.skillHead {
-  font-size: 2rem;
 }
 
 
@@ -144,7 +148,6 @@ hr {
 
 .welcome {
   height: 70px;
-  font-size: 50px;
   margin: 45px;
   color: white;
 }
@@ -152,14 +155,14 @@ hr {
 .intro-paragraph {
   margin: 50px auto;
   text-align: center;
-  width: 600px;
+  width: 800px;
   line-height: 200%;
 }
 
 
 .contactHeader {
-
   color: white;
+  padding-bottom: 45px;
 }
 
 .bot-div {
@@ -205,14 +208,17 @@ hr {
 }
 
 .contact-me {
-  line-height: 400%;
-  padding: 0 100px;
+  margin: 50px auto;
+  text-align: center;
+  width: 800px;
+  line-height: 200%;
 }
 
 .footer {
   padding: 55px;
   margin-bottom: 0;
   color: white;
+  font-size: 1rem;
 }
 
 .footer-link {
