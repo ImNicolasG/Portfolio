@@ -1,2 +1,2 @@
 # Portfolio
-As the title states, its a Simple HTML/CSS/Bootstrap website that I created and am currently using as my portfolio while I create more projects. There is a LOT that needs to be done with it but I would like to put more time into main projects and create a whole new Portfolio site rather than refactor this one. 
+This is my portfolio website that I created when I first started learning Web Developement. It is very basic and there is a lot that id like to do with it, however I'm trying to use the time I have available to me to build new projects before setting up a more solid portfolio. This was created using HTML/CSS/Bootstrap
